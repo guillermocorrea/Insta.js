@@ -1,0 +1,23 @@
+{
+  "name": "Insta.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/guillermocorrea/Insta.js",
+  "authors": [
+    "guillermocorrea <luis.guillermo.correa@hotmail.com>"
+  ],
+  "description": "Angular.js instagram app",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.15",
+    "angular-route": "~1.3.15",
+    "angular-messages": "~1.3.15",
+    "satellizer": "~0.10.1"
+  }
+}
